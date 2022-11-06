@@ -2,7 +2,7 @@
 
 Esse é resultado do segundo projeto do Ignite proposto pela Rocketseat.
 
-🛠️ Skils: React, TypeScript, Styled Components, JSON Server, Axios, HTML e CSS.
+🛠️ Skils: React, TypeScript, Styled Components, JSON Server, Radix, Axios, HTML e CSS.
 
 <br>
 
